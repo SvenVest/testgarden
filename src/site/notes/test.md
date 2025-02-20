@@ -11,3 +11,6 @@ test zwei:
 Test 3
 pdf:
 ![[Marx-Engels-Werke (MEW) - Band 23 (Das Kapital - Erster Band) (Karl Marx Friedrich Engels) (z-lib.org).pdf]]
+---
+# test 4
+![[cosmonautmag.com-Dialectics of Dependency by Ruy Mauro Marini.pdf]]
