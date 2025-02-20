@@ -21,4 +21,4 @@ pdf:
 
 This seminal work explores the structural inequalities of the global capitalist system and their impact on Latin America. Marini's concept of "super-exploitation" offers a powerful critique of traditional development theories.
 
-[Download the PDF](Attachments/cosmonautmag.com-Dialectics of Dependency by Ruy Mauro Marini.pdf)
+[Download the PDF](Attachments/test.pdf)
